@@ -1,0 +1,326 @@
+# *****************************************************************************
+#  Free implementation of Bullfrog's Dungeon Keeper strategy game.
+# *****************************************************************************
+#   @file campgns/Tyraels_realms_cfg/text_eng.pot
+#      KeeperFX Campaign Strings translation template
+#  @par Purpose:
+#      Allows to create .po files used for translating the game.
+#      Also, acts as a source of english translation strings.
+#  @par Comment:
+#      Use this file to create or update source strings in translations.
+# *****************************************************************************
+
+#: guitext:1
+msgctxt "In-game message"
+msgid "This realm is ruled by King Arthur and his Son Tyrael. You'll have to fight hard to gain any advantages. Capture and convert his son to conquer this Kingdom, we'll need him for our further ambitions. The first way to go is to the Portal, make sure you can attract the right creatures from the start."
+msgstr "这个王国由国王亚瑟和他的儿子泰瑞尔统治。你必须努力战斗才能取得优势。俘虏并招降他的儿子来征服这个王国，我们需要他来进一步实现我们的野心。第一步是想办法前往入口，确保你能从一开始就吸引正确的怪物。"
+
+#: guitext:2
+msgctxt "In-game message"
+msgid "Prince Tyrael died."
+msgstr "泰瑞尔王子死掉了。"
+
+#: guitext:3
+msgctxt "In-game message"
+msgid "Well done. You have destroyed the heart and converted Prince Tyrael, he will follow us into the next Realm."
+msgstr "干得漂亮。你成功地摧毁了敌人的心脏并招降了泰瑞尔王子，他将跟随我们进入下一个王国。"
+
+#: guitext:4
+msgctxt "In-game message"
+msgid "Kill Marius, the Avatar and his Heart. Every Entrance you claim in this Realm give you 5 more creatures to attract to your dungeon. Tyraels power is limited in this Realm."
+msgstr "杀死马留斯领主、圣者和他的地下城心脏。你在这个王国中占领的每一个入口都能吸引5只怪物来吸引到你的地下城。泰瑞尔在这个王国中的能力受到限制。"
+
+#: guitext:5
+msgctxt "In-game message"
+msgid "You want to steal from the Lords gem, seems he doesn't want that at all."
+msgstr "你想从国王那里偷走宝石矿，但看来他完全不乐意。"
+
+#: guitext:6
+msgctxt "In-game message"
+msgid "Tyrael is dead."
+msgstr "泰瑞尔王子死掉了。"
+
+#: guitext:7
+msgctxt "In-game message"
+msgid "Your Torture Room has suddenly a very bad chance to convert, something is broken and can't be fixed again."
+msgstr "你的审讯室突然出现了故障，招降敌人的概率变得很低。有些东西一旦坏了，就无法再修复。"
+
+#: guitext:8
+msgctxt "In-game message"
+msgid "You opened the gate to the portal."
+msgstr "你打开了通往入口的大门。"
+
+#: guitext:9
+msgctxt "In-game message"
+msgid "To see the area tyrael is talking about you need to click on the eye symbol."
+msgstr "请点击信息上的眼睛图标，以查看泰瑞尔王子所说的区域。"
+
+#: guitext:10
+msgctxt "In-game message"
+msgid "We need to find a way to reach the Fountain of Youth; it seems too well protected. Perhaps we can hide in some way to get there.."
+msgstr "我们需要设法进入青春之泉；这里看起来防守严密。或许我们能想办法潜入进去……"
+
+#: guitext:11
+msgctxt "In-game message"
+msgid "Vanquish the pathetic heroes and then proceed to conquer the rival Keeper to gain dominance over this land."
+msgstr "消灭可悲的英雄，然后继续征服对手守护者，以夺取对这片土地的统治权。"
+
+#: guitext:12
+msgctxt "In-game message"
+msgid "In this Realm is a hidden Spell, his powerful might returns every Arrow. do you think we can reach the Entrance?"
+msgstr "在这个王国中隐藏着一个魔法，它的强大力量可以将敌人的每一支箭都回敬给他们。你认为我们有办法占领入口吗？"
+
+#: guitext:13
+msgctxt "In-game message"
+msgid "The corpses of the good lie strewn around you. Now go, and conquer your rival on this land. Dominion awaits ..."
+msgstr "善良人类的尸体遍布在你周围。现在出发，征服这片土地上的对手吧。这片土地的统治权在等待着你……"
+
+#: guitext:14
+msgctxt "In-game message"
+msgid "You're very bad, Keeper! as bad as you can be."
+msgstr "你太邪恶了，守护者！坏到极点。"
+
+#: guitext:15
+msgctxt "In-game message"
+msgid "The Sons of the Lord have taken the Prince hostage in this sacred location and have tasked their Fairies with guarding him. Despite their efforts, they have not succeeded in converting him. We must rescue him before it's too late."
+msgstr "国王的儿子将泰瑞尔王子囚禁在了这个神圣的地方，并派仙女们看守他。尽管他们付出了努力，但还是没能成功招降他。我们必须尽快救他，别等到为时已晚。"
+
+#: guitext:16
+msgctxt "In-game message"
+msgid "You have been detected, although the Wizards' endeavors have not succeeded, they have successfully teleported the corpse to safety with Tyrael's Brothers. Be vigilant in your next moves."
+msgstr "你已被敌人发现，虽然巫师们的计划还没有实现，但他们已成功将国王的尸体传送到泰瑞尔的兄弟的安全地点。接下来的行动要小心谨慎。"
+
+#: guitext:17
+msgctxt "In-game message"
+msgid "Our fallen adversary warned us in his final moments that while we may emerge victorious in this battle, the war is far from over, the Fairys are directing their wizards to revive King Arthur, and we must prevent them from succeeding.."
+msgstr "被我们击败的对手在临死前警告我们，虽然我们可能在这场战斗中取得胜利，但战争还远未结束，仙女们正在指挥她们的巫师复活国王亚瑟，我们必须阻止他们完成这一计划…"
+
+#: guitext:18
+msgctxt "In-game message"
+msgid "Damn! It seems King Arthur is resurrected. You can see Tyraels Brothers walking safely in their castle. Meanwhile the good Wizards have enchanted Tyrael. His powers are fading. Goal in this Realm is to kill the King and Tyraels Brothers."
+msgstr "该死！看来国王亚瑟已经复活了。你可以看到泰瑞尔的兄弟在他的城堡里闲庭信步。与此同时，善良的巫师们给泰瑞尔施了魔法。他的力量变得虚弱。征服这个王国的目标是杀死国王和泰瑞尔的兄弟。"
+
+#: guitext:19
+msgctxt "In-game message"
+msgid "There's only one very well hidden Portal in this Realm, stay cautious."
+msgstr "这个王国只有一个隐藏的入口，请小心谨慎地寻找。"
+
+#: guitext:20
+msgctxt "In-game message"
+msgid "The bewitched Tyrael has no control over his anger; at least we can calm him down with some gold."
+msgstr "被蛊惑的泰瑞尔王子无法控制自己的怒火；至少我们可以用金子让他冷静一下。"
+
+#: guitext:21
+msgctxt "In-game message"
+msgid "This Fly looks like a good supporter for the beginning."
+msgstr "这只苍蝇看起来能在前期起到一定帮助。"
+
+#: guitext:22
+msgctxt "In-game message"
+msgid "The Avatars bundled their Power, turning every converted hero back to their side again if they come too close to the castle . They stolen your ability to build bridges aswell. Kill them or their heart to stop that."
+msgstr "圣者们集中了力量，如果每个被招降的英雄离城堡太近，他们就会再次回到英雄阵营。他们还窃取了你建造桥梁的能力。杀死他们或摧毁他们的心脏来阻止这种情况。"
+
+#: guitext:23
+msgctxt "In-game message"
+msgid "Tyraels Brothers are preparing themselfs to kill you, watch out."
+msgstr "泰瑞尔的兄弟正准备杀掉你，小心。"
+
+#: guitext:24
+msgctxt "In-game message"
+msgid "Well done. Extinction everywhere. I like it."
+msgstr "干得漂亮。所有的人类已经灭绝了。我喜欢。"
+
+#: guitext:82 guitext:885
+msgctxt ""
+msgid "Spit"
+msgstr "吐痰"
+
+#: guitext:83
+msgctxt ""
+msgid "Phalanx"
+msgstr "蚁狮"
+
+#: guitext:84
+msgctxt ""
+msgid "Guardian"
+msgstr "守卫"
+
+#: guitext:85
+msgctxt ""
+msgid "Elf"
+msgstr "妖精弓箭手"
+
+#: guitext:86
+msgctxt ""
+msgid "Dark Angel"
+msgstr "黑暗天使"
+
+#: guitext:87
+msgctxt ""
+msgid "Berserker"
+msgstr "狂战士"
+
+#: guitext:88
+msgctxt ""
+msgid "Blonde"
+msgstr "金发女王"
+
+#: guitext:89
+msgctxt ""
+msgid "Dark Elf"
+msgstr "黑暗妖精"
+
+#: guitext:90
+msgctxt ""
+msgid "Flying Terror"
+msgstr "恐惧魔蝠"
+
+#: guitext:91
+msgctxt ""
+msgid "Lava Spawn"
+msgstr "岩浆之子"
+
+#: guitext:92
+msgctxt ""
+msgid "Minotaur"
+msgstr "牛头人"
+
+#: guitext:93
+msgctxt ""
+msgid "Flying Skeleton"
+msgstr "飞行骷髅"
+
+#: guitext:94
+msgctxt ""
+msgid "summon creature"
+msgstr "召唤怪物"
+
+#: guitext:95
+msgctxt ""
+msgid "Axe throw"
+msgstr "飞斧"
+
+#: guitext:96 guitext:97 guitext:509
+msgctxt ""
+msgid "Cannon"
+msgstr "加农炮"
+
+#: guitext:98
+msgctxt ""
+msgid "Balista"
+msgstr "弩炮"
+
+#: guitext:99
+msgctxt ""
+msgid "Summon Skeleton"
+msgstr "召唤骷髅"
+
+#: guitext:100
+msgctxt ""
+msgid "Dark Knight"
+msgstr "黑暗骑士"
+
+#: guitext:202
+msgctxt "Level name"
+msgid "Get to know"
+msgstr "认知"
+
+#: guitext:203
+msgctxt "Level name"
+msgid "Raid"
+msgstr "突袭"
+
+#: guitext:204
+msgctxt "Level name"
+msgid "Split Issues"
+msgstr "分裂问题"
+
+#: guitext:205
+msgctxt "Level name"
+msgid "The Sons of the Lord"
+msgstr "国王之子"
+
+#: guitext:206
+msgctxt "Level name"
+msgid "tyraels might"
+msgstr "泰瑞尔的意志"
+
+#: guitext:264
+msgctxt ""
+msgid "Firefly"
+msgstr "萤火虫"
+
+#: guitext:309
+msgctxt ""
+msgid "Toad Warrior"
+msgstr "蛤蟆战士"
+
+#: guitext:372
+msgctxt ""
+msgid "Tyrael"
+msgstr "泰瑞尔"
+
+#: guitext:510
+msgctxt ""
+msgid "Flametrap"
+msgstr "火焰陷阱"
+
+#: guitext:511
+msgctxt ""
+msgid "Flailtrap"
+msgstr "枷锁陷阱"
+
+#: guitext:512
+msgctxt ""
+msgid "Freezetrap"
+msgstr "冰冻陷阱"
+
+#: guitext:513
+msgctxt ""
+msgid "Grapplehooktrap"
+msgstr "爪钩陷阱"
+
+#: guitext:514
+msgctxt ""
+msgid "Beartrap"
+msgstr "捕熊陷阱"
+
+#: guitext:515
+msgctxt ""
+msgid "Cave In Trap"
+msgstr "塌方陷阱"
+
+#: guitext:516
+msgctxt ""
+msgid "Lightningtrap"
+msgstr "闪电陷阱"
+
+#: guitext:517
+msgctxt ""
+msgid "Windtrap"
+msgstr "风暴陷阱"
+
+#: guitext:884
+msgctxt ""
+msgid "Poison Spray"
+msgstr "毒雾"
+
+#: guitext:885
+msgctxt ""
+msgid "Black Knight"
+msgstr "黑暗骑士"
+
+#: guitext:886
+msgctxt ""
+msgid "Goblin"
+msgstr "哥布林"
+
+#: guitext:887
+msgctxt ""
+msgid "Salamander"
+msgstr "火蜥蜴"
+
+#: guitext:888
+msgctxt ""
+msgid "Maiden"
+msgstr "贵妇"

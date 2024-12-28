@@ -1,0 +1,212 @@
+# KeeperFX Effects Configuration file
+# file version 15
+# Contains Effects, EffectGenerators and EffectElements
+
+[effect80]
+Name = "EFFECT_POISON_HIT"
+Health = 1
+GenerationType = 1
+GenerationAccelXYRange = [50,100]
+GenerationAccelZRange = [-350,100]
+GenerationKindRange = [116,116]
+AreaAffectType = 0
+HitType = 0
+Sound = 0
+AffectedByWind = 1
+LightRadius = 0
+LightIntensity = 0
+LightFlags = 0
+ElementsCount = 3
+AlwaysGenerate = 0
+
+[effect81]
+Name = "EFFECT_WEB_BEAM"
+Health = 1
+GenerationType = 1
+GenerationAccelXYRange = [1,1]
+GenerationAccelZRange = [1,1]
+GenerationKindRange = [118,119]
+AreaAffectType = 0
+HitType = 0
+Sound = 0
+AffectedByWind = 1
+LightRadius = 0
+LightIntensity = 0
+LightFlags = 0
+ElementsCount = 1
+AlwaysGenerate = 0
+
+[effect82]
+Name = "EFFECT_WEB_STICKY"
+Health = 8
+GenerationType = 1
+GenerationAccelXYRange = [-32,32]
+GenerationAccelZRange = [-24,24]
+GenerationKindRange = [120,121]
+AreaAffectType = 0
+HitType = 0
+Sound = 0
+AffectedByWind = 0
+LightRadius = 0
+LightIntensity = 0
+LightFlags = 0
+ElementsCount = 1
+AlwaysGenerate = 0
+
+[effect83]
+Name = "EFFECT_RISING_ICE_BLOCKS_FREEZETRAP"
+Health = 5
+GenerationType = 1
+GenerationAccelXYRange = [16,40]
+GenerationAccelZRange = [-500,-500]
+GenerationKindRange = [11,11]
+AreaAffectType = 0
+HitType = 0
+Sound = 48
+AffectedByWind = 0
+LightRadius = 0
+LightIntensity = 0
+LightFlags = 0
+ElementsCount = 20
+AlwaysGenerate = 0
+
+[effectElement122]
+Name = "EFFECTELEMENT_POISON_HIT"
+DrawClass = 2
+MoveType = 2
+Unanimated = 0
+Lifespan = [-1,-1]
+AnimationId = 824
+SpriteSize = [256,512]
+RenderFlags = 1
+SpriteSpeed = [256,320]
+AnimateOnFloor = true
+Unshaded = true
+Transparant = 3
+MovementFlags = 0
+SizeChange = 0
+fallAcceleration = 0
+InertiaFloor = 0
+InertiaAir = 0
+SubeffectModel = 0
+SubeffectDelay = 0
+Movable = false
+Impacts = false
+TransformModel = 0
+LightRadius = 0
+LightIntensity = 0
+LightFlags = 0
+AffectedByWind = 1
+
+[effectElement123]
+Name = "EFFECTELEMENT_POISON_BEAM"
+DrawClass = 2
+MoveType = 2
+Unanimated = 0
+Lifespan = [-1,-1]
+AnimationId = 824
+SpriteSize = [200,256]
+RenderFlags = 1
+SpriteSpeed = [256,320]
+AnimateOnFloor = true
+Unshaded = true
+Transparant = 3
+MovementFlags = 0
+SizeChange = 0
+fallAcceleration = 0
+InertiaFloor = 0
+InertiaAir = 0
+SubeffectModel = 0
+SubeffectDelay = 0
+Movable = false
+Impacts = false
+TransformModel = 0
+LightRadius = 0
+LightIntensity = 0
+LightFlags = 0
+AffectedByWind = 1
+
+[effectElement124]
+Name = "EFFECTELEMENT_WEB_BEAM_1"
+DrawClass = 2
+MoveType = 5
+Unanimated = 0
+Lifespan = [-1,-1]
+AnimationId = 828
+SpriteSize = [250,300]
+RenderFlags = 1
+SpriteSpeed = [128,128]
+AnimateOnFloor = true
+Unshaded = false
+Transparant = 1
+MovementFlags = 0
+SizeChange = 0
+fallAcceleration = 0
+InertiaFloor = 0
+InertiaAir = 0
+SubeffectModel = 0
+SubeffectDelay = 0
+Movable = false
+Impacts = false
+TransformModel = 0
+LightRadius = 0
+LightIntensity = 0
+LightFlags = 0
+AffectedByWind = 1
+
+[effectElement125]
+Name = "EFFECTELEMENT_WEB_BEAM_2"
+DrawClass = 2
+MoveType = 5
+Unanimated = 0
+Lifespan = [-1,-1]
+AnimationId = 828
+SpriteSize = [250,300]
+RenderFlags = 1
+SpriteSpeed = [128,128]
+AnimateOnFloor = true
+Unshaded = true
+Transparant = 2
+MovementFlags = 0
+SizeChange = 0
+fallAcceleration = 0
+InertiaFloor = 0
+InertiaAir = 0
+SubeffectModel = 0
+SubeffectDelay = 0
+Movable = false
+Impacts = false
+TransformModel = 0
+LightRadius = 0
+LightIntensity = 0
+LightFlags = 0
+AffectedByWind = 1
+
+[effectElement126]
+Name = "EFFECTELEMENT_WEB_STICKY_1"
+DrawClass = 2
+MoveType = 1
+Unanimated = 0
+Lifespan = [-1,-1]
+AnimationId = 828
+SpriteSize = [250,300]
+RenderFlags = 1
+SpriteSpeed = [128,128]
+AnimateOnFloor = true
+Unshaded = false
+Transparant = 1
+MovementFlags = 0
+SizeChange = 0
+fallAcceleration = 0
+InertiaFloor = 0
+InertiaAir = 0
+SubeffectModel = 0
+SubeffectDelay = 0
+Movable = false
+Impacts = false
+TransformModel = 0
+LightRadius = 0
+LightIntensity = 0
+LightFlags = 0
+AffectedByWind = 1
+

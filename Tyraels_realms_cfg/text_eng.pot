@@ -13,7 +13,7 @@
 #: guitext:1
 msgctxt "In-game message"
 msgid "This realm is ruled by King Arthur and his Son Tyrael. You'll have to fight hard to gain any advantages. Capture and convert his son to conquer this Kingdom, we'll need him for our further ambitions. The first way to go is to the Portal, make sure you can attract the right creatures from the start."
-msgstr "这个王国由国王亚瑟和他的儿子泰瑞尔统治。你必须努力战斗才能取得优势。俘虏并招降他的儿子来征服这个王国，我们需要他来进一步实现我们的野心。第一个路是前往入口，确保你能从一开始就吸引正确的怪物。"
+msgstr ""
 
 #: guitext:2
 msgctxt "In-game message"
@@ -187,12 +187,12 @@ msgstr ""
 
 #: guitext:93
 msgctxt ""
-msgid "Flying Skeleton"
+msgid "Bone Spirit"
 msgstr ""
 
 #: guitext:94
 msgctxt ""
-msgid "summon creature"
+msgid "Summon Creature"
 msgstr ""
 
 #: guitext:95
@@ -242,7 +242,7 @@ msgstr ""
 
 #: guitext:206
 msgctxt "Level name"
-msgid "tyraels might"
+msgid "Tyraels Might"
 msgstr ""
 
 #: guitext:264
@@ -262,27 +262,27 @@ msgstr ""
 
 #: guitext:510
 msgctxt ""
-msgid "Flametrap"
+msgid "Flame Trap"
 msgstr ""
 
 #: guitext:511
 msgctxt ""
-msgid "Flailtrap"
+msgid "Flail Trap"
 msgstr ""
 
 #: guitext:512
 msgctxt ""
-msgid "Freezetrap"
+msgid "Freeze Trap"
 msgstr ""
 
 #: guitext:513
 msgctxt ""
-msgid "Grapplehooktrap"
+msgid "Grapplehook Trap"
 msgstr ""
 
 #: guitext:514
 msgctxt ""
-msgid "Beartrap"
+msgid "Bear Trap"
 msgstr ""
 
 #: guitext:515
@@ -292,7 +292,7 @@ msgstr ""
 
 #: guitext:516
 msgctxt ""
-msgid "Lightningtrap"
+msgid "Lightning Trap"
 msgstr ""
 
 #: guitext:517

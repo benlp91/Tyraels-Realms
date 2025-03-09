@@ -194,6 +194,7 @@ IF(PLAYER1,DUNGEON_DESTROYED == 1)
 	REVEAL_MAP_LOCATION(PLAYER0,4,25)
 	REM "Our fallen adversary warned us in his final moments that while we may emerge victorious in this battle, the war is far from over, the Fairys are directing their wizards to revive King Arthur, and we must prevent them from succeeding.."
 	DISPLAY_OBJECTIVE(17,4)
+	ZOOM_TO_LOCATION(PLAYER0,4)
 ENDIF
 
 IF(PLAYER1,FLAG7 == 1)

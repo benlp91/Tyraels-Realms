@@ -1,0 +1,128 @@
+泰瑞尔中文翻译-Tyrael campaign Chinese script
+Narrator voice:
+
+bad 01 : well done keeper. Prince tyrael joined our ranks. it seems you have what it takes for this Job
+干得漂亮，守护者。泰瑞尔王子加入了我们的阵营。看来，你有胜任这份工作的能力。
+bad 02 : Ah, the sweet smell of success. Marius lays lifeless amid his viscera and his Kingdom is now yours! Great Job evil one.
+啊，甜蜜的胜利滋味。马留斯领主死无全尸，他的王国现在归你了！做的很好，邪恶的主人。
+bad 03 : See, keeper, working with your brain can't hurt, can it ? even your chickens have studied some magic.
+看，守护者，工作的时候多动动脑筋没坏处吧？你的小鸡甚至也学会了一些魔法。
+bad 04 : all the sons are dead. I doubt that anything could stop you now
+国王所有的儿子都死了。我相信现在没有什么能阻止你了。
+bad 05 : Well done keeper! You've done it ! Nothing can stand in your way. thank you so much for playing this Campaign. 
+干得漂亮，守护者！你成功了！现在没有什么能够阻止你了。非常感谢你游玩本战役。
+gud 01 : Welcome Keeper. How delightful to have you back. as you can tell this Land is saturated with the Aroma of Tulips and Joy. i hope you have what it takes to put a stop to it.
+欢迎，守护者。很高兴再见到你。你可以看到这片土地上充满着郁金香和欢乐的气氛。我希望你有能力消除这一切。
+gud 02 : Marius the Avatar and Landlord of this Kingdom is already expecting you. there's no doubt that this will turn into a bloody mess
+这个王国的圣者，马留斯领主已经在等着你了。毫无疑问，这里将会发生一场血腥的混战。
+gud 03 : this Land is the cave of savactus. an Avatar is causing trouble here and it will be challenging to gain the upper hand. show your Abilities. Use brain instead of brawn.
+这里是萨瓦克图斯的洞穴。有个圣者正在这里捣乱，想要彻底击败他会很难。多动动脑筋，不要蛮干。
+gud 04 : This is truly a holy place, ruled by many sons of the lord. Your most powerful rewards will come from the temple. Accept the challenge that awaits you in this Kingdom.
+这里真是一个神圣的地方，由国王的儿子们统治。在这里，你将从寺庙中获得最强大的奖励，并接受这个王国中等待着你的挑战。
+gud 05 : The Prince has been enchanted and has barely any more Strength than a dead hero. we must protect him at all costs, the fortress that awaits us here will not be childs play.
+泰瑞尔王子中了敌人的魔咒，他的力量衰弱，奄奄一息。我们必须不惜一切代价保护他，在这里的堡垒等待我们的敌军不会是等闲之辈。
+
+
+Tyraels Voice:
+
+argh : (DO NOT WRITE THIS !) it's just a death scream
+啊！
+dirt : Master, something is hidden here behind the Dirt.
+主人，这个土块后面藏着什么东西。
+free : come and free me master but be prepared : the Enemy has an Army that i've never seen before
+快来救我，主人！但要小心：敌人有一支我从未见过的军队！
+hello : hello Keeper, my name is tyrael. it looks like we both need to come to an arrangement now, I hope for a fruitful collaboration. 
+您好，守护者，我叫泰瑞尔。现在我们两个都处境艰难。希望我们合作愉快。
+look : look at me, master, all our efforts are paying off. I'm ready for the battle of my life
+看看我，主人，我们的努力有效果了。我要为我的性命而战。
+revive : these damned wizards shall not be victorious
+这些该死的巫师是战胜不了我们的！
+strengthisgone: Master, I'm doing my best but my strength is gone. i feel something within me, untapped powers, we need to find a way to unleash them to ultimately eradicate the good
+主人，我现在浑身使不上力气。我感觉体内有什么东西，在吸取我的力量。我们必须想办法把它去掉，然后彻底消灭人类英雄！
+sword : Master, my sword is eternally yours
+主人，我的宝剑将永远为您所用！
+takecontrol: time for some slaughter. take control of me master ! Quickly !
+是时候杀掉敌人了！用附身魔法控制我，动作快，主人！
+training: ahh! a training room. Master, I could really use a little encouragement from you
+啊，主人，我们找到了训练室。我感觉能从你身上获得一些勇气
+troll: this troll should help us to reach the fountain of youth
+这只精灵能带我们找到前往喷泉的路
+lvlspe43 : a bug and a spider, two useful ingredients to throw in the temple. don't you agree master ? 
+这里有甲虫和蜘蛛。它们是最实用的两种祭祀材料，不是吗，主人？
+
+
+Female Fairy Voice: 
+
+lvlspe09 : the evil scourge attack and now they penetrate the precious chamber where i keep my gems. i bid you all to rally round to help me now
+一群邪恶的家伙入侵了！他们闯进了储藏室，抢夺我们的宝石！我需要你们立即支援！
+lvlspe10: they are few in number fellow fairys. don't forget we have magic on our side. hahahaha !
+他们没多少人了，仙女们！别忘了魔法在我们手上！呵呵呵！
+lvlspe 18 : oh yes yes yes ! it feels so good to be triumphant
+哦，对对对！获胜的感觉真棒！
+
+
+
+Landlord (Father of Tyrael)
+
+lvlspe01 : my scouts report a dark uprising in your realm. do not allow it to progress
+我们的探子发现你的王国中有邪恶的气息！不要让他蔓延出来！
+lvlspe02 : Charge now ! one and all
+冲啊！彻底干掉他们！
+lvlspe03 : your fetid stench offends my nose. this land shall reject you, i'll make sure of it.
+你邪恶的爪牙砍掉了我的鼻子！我发誓要让你滚出这片土地！
+lvlspe06 : be aware my sons. i sense an invasion. Send the intruder back from whence they came!
+小心，孩子们，我感觉到有敌人入侵。把入侵者赶回他们的老家去！
+lvlspe07 : can this be ? my son ? your brother ? has been slain ! upon my word the slayer must now perish and our loss will be avenged
+简直不敢相信！我的孩子？你的兄弟，已经被杀了！我们必须为他复仇，彻底消灭敌人！
+lvlspe08 : this say is dark indeed ! you have killed sons beloved of their father and now revenge is all i have to live for.  prepare to die most horribly
+真是邪恶至极的家伙！你杀掉了我亲爱的孩子们，我要不惜性命为他们复仇。准备死无葬身之地吧！
+lvlspe11 : Alert ! Alert ! we are attacked ! call in our reserves at once.
+警报！警报！我们遭到了攻击！立即请求支援。
+lvlspe22 : you shall never see daylight again, keeper !
+你将再也见不到明天的阳光，守护者！
+lvlspe25 : Intruder ! Sound the alarm
+发现入侵者！拉响警报！
+lvlspe26 : Halt ! who goes there?
+站住！谁在那？
+lvlspe27 : we are being attacked.
+我们遭到了攻击！
+lvlspe28 : the Castle has been breached. Sound the alarm
+我们的城堡被攻破了！拉响警报！
+lvlspe29 : the keepers minions have reached us, Guards ! guards ! 
+守护者的爪牙已经逼近了！卫兵，卫兵在哪里！
+lvlspe30 : huh ? who is that?
+嗯？那是谁？
+lvlspe31 : Guards, the keepers is here, GUARDS !
+卫兵！守护者闯进来了，卫兵！
+lvlspe32 : we have beaten them off
+我们已经击退了他们
+lvlspe33 : they have gone
+他们完蛋了。
+lvlspe36 : a thousand curtis upon your Name, keeper
+我恨不得骂你一千遍，守护者！
+lvlspe40 : i will destroy you , keeper !
+我会碾碎你，守护者！
+lvlspe41 : you will regret your foolish challenge
+你会对你愚蠢地挑战我感到后悔的！
+lvlspe42 : i see i must deal with you myself
+我明白了，我会亲手干掉你的。
+
+
+
+Wisdom is needed like it is No Need to translate
+
+
+
+
+Random stuff that is an Easter egg from dk2
+
+misc009
+哈哈哈哈~
+silly027
+永远不要去吃比你脑袋还大的东西。
+silly030
+时间规划就是一切。
+silly031
+如果你有任何一种邪恶的品质，守护者，你都将取得胜利。
+silly032
+别的守护者可不会连自己怪物的生日都不记得。

@@ -41,6 +41,8 @@ FOR CHINESE PLAYERS ONLY:
 
 Extract also the 7th File called Tyraels_realms_media_chi
 
-Open the Tyraels_realms.cfg file and change the line "MEDIA_LOCATION = campgns/Tyraels_realms_media"      to     "MEDIA_LOCATION = campgns/Tyraels_realms_media_chi"
+Open the Tyraels_realms.cfg file and change the line "MEDIA_LOCATION = campgns/Tyraels_realms_media"      to     
+
+"MEDIA_LOCATION = campgns/Tyraels_realms_media_chi"
 
 and save the File.

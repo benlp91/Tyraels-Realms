@@ -5,14 +5,22 @@ Please note: It requires the latest Alpha version of KeeperFX to run correctly.
 
 📦 Installation Instructions
 
-Click the green “Code” button at the top of this page.
+1.Click the green “Code” button at the top of this page.
 
-Select “Download ZIP” and extract the contents to a temporary folder.
+2.Select “Download ZIP” and extract the contents to a temporary folder.
 
-Unfortunately, GitHub places all files into an extra folder (e.g. /YourCampaignName-main/), which KeeperFX cannot read directly.
+Unfortunately, GitHub places all files into an extra folder, which KeeperFX cannot read directly.
 
-Open that folder and locate the following 6 files:
+3.Open that folder and locate the following 6 files:
 
-(List your 6 file names here if you want — optional but helpful!)
+Tyrales_realms
+Tyraels_realms_cfg
+tyraels_realms_crtr
+Tyrales_realms_lnd
+Tyrales_realms_media
+Tyrales_realms.cfg
 
-Move all 6 files into the following directory in your KeeperFX installation:
+4.Move all 6 files into the following directory in your KeeperFX installation:
+-KeeperFX/campgns
+
+Launch KeeperFX and your campaign should now be available to play!

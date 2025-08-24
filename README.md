@@ -14,10 +14,15 @@ Unfortunately, GitHub places all files into an extra folder, which KeeperFX cann
 3.Open that folder and locate the following 6 files:
 
 Tyrales_realms
+
 Tyraels_realms_cfg
+
 tyraels_realms_crtr
+
 Tyrales_realms_lnd
+
 Tyrales_realms_media
+
 Tyrales_realms.cfg
 
 4.Move all 6 files into the following directory in your KeeperFX installation:

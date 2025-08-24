@@ -1,8 +1,18 @@
-This is a Campaign for Keeper FX.
-It needs the newest Alpha to work correctly.
+🏰 KeeperFX Custom Campaign
 
-To install you need to click the green "code" button and click and download zip.
+This is a custom campaign for KeeperFX.
+Please note: It requires the latest Alpha version of KeeperFX to run correctly.
 
-sadly git hub is putting my stuff in a main folder which is not readable the game.
-You open the main folder until you see my 6 Files , and all those 6 Files needs to go into KeeperFX/campgns
+📦 Installation Instructions
 
+Click the green “Code” button at the top of this page.
+
+Select “Download ZIP” and extract the contents to a temporary folder.
+
+Unfortunately, GitHub places all files into an extra folder (e.g. /YourCampaignName-main/), which KeeperFX cannot read directly.
+
+Open that folder and locate the following 6 files:
+
+(List your 6 file names here if you want — optional but helpful!)
+
+Move all 6 files into the following directory in your KeeperFX installation:

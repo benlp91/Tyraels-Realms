@@ -33,6 +33,10 @@ Launch KeeperFX and your campaign should now be available to play!
 
 
 
+
+
+
+
 FOR CHINESE PLAYERS ONLY:
 
 Extract also the 7th File called Tyraels_realms_media_chi
